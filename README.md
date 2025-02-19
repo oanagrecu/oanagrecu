@@ -10,7 +10,7 @@ I am driven to continuously expand my expertise, aiming to transition into Full-
 ---
 
 ## Check out the business card!
-[![V-Card Responsive](./images/V-card-Oana.png)](https://oanagrecu.github.io/V-Card-responsive/)
+[![V-Card Responsive](./imagesV-card-Oana.png)](https://oanagrecu.github.io/V-Card-responsive/)
 
 Click the image to see it live!
 
