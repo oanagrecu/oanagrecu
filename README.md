@@ -9,7 +9,15 @@ I am driven to continuously expand my expertise, aiming to transition into Full-
 
 ---
 
+## Check out the business card!
+[![V-Card Responsive](./images/V-card-Oana.png)](https://oanagrecu.github.io/V-Card-responsive/)
+
+Click the image to see it live!
+
+---
+
 ### 🌱 I’m currently learning  
+
 - Angular, Python, and PHP, while also gaining more experience in creating and integrating APIs.  
 
 ---
