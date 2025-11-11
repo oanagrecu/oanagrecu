@@ -39,8 +39,9 @@ Click the image to see it live!
 ---
 
 ### 💻 Projects  
- **[NewProject](https://www.creditproexpert.ro/)** – Angular, Scss, Vercel, NPM, JavaScript, Jira, Typescript.  
-- **[NewProject](https://www.akwanza.com/)** – React, Tailwind, D3.js, NPM, JavaScript, Jira, PHP,Wordpress.  
+- **[Project](https://www.creditproexpert.ro/)** – Angular, Scss, Vercel, NPM, JavaScript, Jira, Typescript.  
+- **[NewProject](https://www.akwanza.com/)** – D3.js, Stripe, WordPress, Bootstrap, PHP, Jira, Figma, Hostinger,
+WooCommerce, Teemill, Flourish, Gelato.  
 - **[Personal Portfolio](https://oanawebsite.netlify.app)** – React, Sass, NPM, JSON, JavaScript.  
 - **[Team-Project: the_best_-Dark_Kitchen_ever](https://fergalicious.netlify.app/)** – Sass, JSON, GitHub, JavaScript, teamwork.  
 - **LokkerRoom** – Built with Node.js, Express.js, MariaDB, and JSON Web Token.  
