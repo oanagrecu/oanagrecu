@@ -24,13 +24,16 @@ Click the image to see it live!
 
 
 ### 💼 Work Experience  
-- **Junior Web Developer** @ Walter Clayton (01/2024 - 03/2024, Brussels, Belgium)  
+- **Cybersecurity & Networking Training** @ Interface3 (05/2025 - present, Brussels, Belgium)  
+    Practical experience with system support and cybersecurity fundamentals.
+
+- **Web Developer** @ Walter Clayton (01/2024 - 03/2024, Brussels, Belgium)  
   Developed responsive landing pages and implemented modern UI/UX principles.  
 
-- **Front End Developer Trainee** @ BeCode.org (05/2023 - 11/2023, Brussels, Belgium)  
+- **Front End Developer** @ BeCode.org (05/2023 - 11/2023, Brussels, Belgium)  
   Built full-stack web applications using Express.js and integrated databases for persistent data storage.  
 
-- **Junior Web Developer** @ WIDE ADVISORY srl (09/2021 - 05/2023, Cluj-Napoca, Romania)  
+- **Web Developer** @ WIDE ADVISORY srl (09/2021 - 05/2025, Cluj-Napoca Romania)  
   Ensured compatibility across web browsers and designed user interfaces.  
 
 ---
