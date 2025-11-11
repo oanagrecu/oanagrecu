@@ -1,7 +1,7 @@
 ### Hi there 👋  
 
 
-I'm **Oana Alexandra Grecu**, a Front End Developer based in Brussels, Belgium. 
+I'm **Oana Alexandra Grecu**, a Web Developer based in Brussels, Belgium. 
 
 I am a responsible and organized individual who successfully transitioned from a teaching career to web development.  
 With experience in **HTML5, CSS3, JavaScript, React, Angular, Bootstrap, JSON, GitHub, WordPress, SQL, and NoSQL**, I'm passionate about crafting responsive and visually appealing web applications.  
@@ -36,7 +36,8 @@ Click the image to see it live!
 ---
 
 ### 💻 Projects  
-- **[NewProject as an Intern](https://www.akwanza.com/)** – React, Tailwind, D3.js, NPM, JavaScript, Jira, PHP.  
+ **[NewProject](https://www.creditproexpert.ro/)** – Angular, Scss, Vercel, NPM, JavaScript, Jira, Typescript.  
+- **[NewProject](https://www.akwanza.com/)** – React, Tailwind, D3.js, NPM, JavaScript, Jira, PHP,Wordpress.  
 - **[Personal Portfolio](https://oanawebsite.netlify.app)** – React, Sass, NPM, JSON, JavaScript.  
 - **[Team-Project: the_best_-Dark_Kitchen_ever](https://fergalicious.netlify.app/)** – Sass, JSON, GitHub, JavaScript, teamwork.  
 - **LokkerRoom** – Built with Node.js, Express.js, MariaDB, and JSON Web Token.  
