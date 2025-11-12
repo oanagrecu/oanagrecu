@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-I'm **Oana Alexandra Grecu**, a Web Developer based in Brussels, Belgium. 
+I'm Oana Alexandra Grecu, a Web Developer based in Brussels, Belgium. 
 
 Multilingual and detail-driven Front-End Developer with strong cybersecurity awareness and hands-on experience building secure, responsive web applications using Node.js, Vue.js, React, Angular, and TypeScript.
 Cisco penetration testing expert, bringing a security-first mindset to front-end development. Skilled in Python, HTML5, CSS3 (Sass), JavaScript (ES6+), GitHub, UI/UX, Atlassian tools (Jira and Confluence), Bootstrap and RESTful
