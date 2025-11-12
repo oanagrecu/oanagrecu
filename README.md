@@ -36,7 +36,7 @@ Click the image to see it live!
 
 ---
 
-### 💻 Featured Projects  
+### 💻 Projects  
 - [**CreditProExpert**](https://www.creditproexpert.ro/) — Angular, SCSS, TypeScript, Vercel, Jira  
 - [**AkWanza**](https://www.akwanza.com/) — D3.js, Stripe, WordPress, Bootstrap, PHP, WooCommerce, Figma  
 - [**Personal Portfolio**](https://oanawebsite.netlify.app) — React, Sass, NPM, JSON  
