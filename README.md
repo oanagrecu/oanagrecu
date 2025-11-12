@@ -41,7 +41,7 @@ Click the image to see it live!
 - [**AkWanza**](https://www.akwanza.com/) — D3.js, Stripe, WordPress, Bootstrap, PHP, WooCommerce, Figma  
 - [**Personal Portfolio**](https://oanawebsite.netlify.app) — React, Sass, NPM, JSON  
 - [**Dark Kitchen (Team Project)**](https://fergalicious.netlify.app/) — Sass, JSON, GitHub, teamwork  
-- [**LokkerRoom** ](https://fergalicious.netlify.app/) Node.js, Express.js, MariaDB, JWT Authentication  
+- [**LokkerRoom** ](https://github.com/oanagrecu/lokkeroomProj.git) Node.js, Express.js, MariaDB, JWT Authentication  
 - [**Weather App**](https://oanagrecu.github.io/weatherApp/) — API integration, JavaScript, Fetch, DOM  
 - [**Cocktail Finder**](https://cocktail-finder-og.netlify.app/) — API integration, JavaScript, Fetch, DOM  
 
