@@ -1,23 +1,16 @@
 ### Hi there 👋  
 
-
 I'm **Oana Alexandra Grecu**, a Web Developer based in Brussels, Belgium. 
 
-Multilingual and detail-driven Front-End Developer with strong cybersecurity awareness and hands-on experience
-building secure, responsive web applications using Node.js, Vue.js, React, Angular, and TypeScript.
-Cisco penetration testing expert, bringing a security-first mindset to front-end development. Skilled in Python,
-HTML5, CSS3 (Sass), JavaScript (ES6+), GitHub, UI/UX, Atlassian tools (Jira and Confluence), Bootstrap and RESTful
+Multilingual and detail-driven Front-End Developer with strong cybersecurity awareness and hands-on experience building secure, responsive web applications using Node.js, Vue.js, React, Angular, and TypeScript.
+Cisco penetration testing expert, bringing a security-first mindset to front-end development. Skilled in Python, HTML5, CSS3 (Sass), JavaScript (ES6+), GitHub, UI/UX, Atlassian tools (Jira and Confluence), Bootstrap and RESTful
 APIs, with a focus on clean, scalable code and secure component architecture.
-Adept at refactoring legacy code, collaborating in agile teams, and mentoring junior developers. Passionate about
-continuous learning, inclusive teamwork, and elevating products through both UX excellence and cybersecurity best
-practices.
-A proactive team player and natural coach, experienced in mentoring junior developers, participating in code
-reviews, and contributing to cross-functional collaboration.
-Known for a strong sense of ownership, excellent communication skills, and the ability to adapt quickly in fast-paced,
-agile environments.
-Passionate about building user-friendly products with a focus on both frontend excellence and robust application
-security.
+Adept at refactoring legacy code, collaborating in agile teams, and mentoring junior developers. Passionate about continuous learning, inclusive teamwork, and elevating products through both UX excellence and cybersecurity best practices.
+A proactive team player and natural coach, experienced in mentoring junior developers, participating in code  reviews, and contributing to cross-functional collaboration.
+Known for a strong sense of ownership, excellent communication skills, and the ability to adapt quickly in fast-paced, agile environments.
+Passionate about building user-friendly products with a focus on both frontend excellence and robust application security.
 ---
+
 
 ## Check out the business card!
 [![V-Card-responsive](B-card-Oana.png)](https://oanagrecu.github.io/V-Card-responsive/)
