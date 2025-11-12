@@ -9,7 +9,7 @@ I'm Oana Alexandra Grecu, a Web Developer based in Brussels, Belgium.
 ---
 
 ### 🪪 Check out my digital business card  
-[![V-Card-responsive](B-card-Oana.png)](https://oanagrecu.github.io/V-Card-responsive/)  
+[![V-Card-responsive](oana-vCard.png)](https://oanagrecu.github.io/V-Card-responsive/)  
 Click the image to see it live!
 
 ---
